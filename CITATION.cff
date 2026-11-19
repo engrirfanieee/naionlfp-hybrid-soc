@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this repository as below."
+title: "Code and data for: Aging-aware cross-chemistry state-of-charge estimation for sodium-ion/LiFePO4 hybrid battery packs: a simulation analysis of the shared current-offset channel"
+authors:
+  - family-names: "Habib"
+    given-names: "Muhammad Irfan"
+    affiliation: "Department of Electrical Engineering Technology, National Skills University Islamabad, Pakistan"
+    orcid: "https://orcid.org/0009-0003-9747-6012"
+version: 1.0.0
+date-released: 2026-11-19
+license: MIT
+repository-code: "https://github.com/engrirfanieee/naion-lfp-hybrid-soc"
+keywords:
+  - sodium-ion battery
+  - LiFePO4
+  - hybrid battery pack
+  - state of charge
+  - Kalman filter
+  - identifiability
+  - PyBaMM
+preferred-citation:
+  type: article
+  title: "Aging-aware cross-chemistry state-of-charge estimation for sodium-ion/LiFePO4 hybrid battery packs: a simulation analysis of the shared current-offset channel"
+  authors:
+    - family-names: "Habib"
+      given-names: "Muhammad Irfan"
+  journal: "eTransportation"
+  year: 2026
+  status: submitted
